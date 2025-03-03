@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root_group>
+	<group display_name="All Contacts" />
+	<group display_name="Blacklist" />
+	<group display_name="אנשי קשר" ring="Auto" />
+</root_group>
+<root_contact>
+   <contact display_name="יוחאי צברי" office_number="267" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גילה מיכה" office_number="381" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="לאה מונרוב 380" office_number="380" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מורן מושייב" office_number="376" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="379 - נופר שקד" office_number="379" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יאנה צרנובילסקה" office_number="377" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="נאור בנין" office_number="385" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="ענת באבי" office_number="384" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שמואל חלפון" office_number="382" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="תמיר חן" office_number="383" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="עדי סרנו" office_number="421" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="לינוי יחזקל" office_number="202" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="קצין רכב" office_number="234" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גבלייב איילה תוכנית 360" office_number="471" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אורן קורנפלד" office_number="203" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אינה פרסקי" office_number="323" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="סיון אמיגה" office_number="503" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שרית אהרונוב" office_number="324" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="נורית נתנוב" office_number="214" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="נועם יוספי שאול" office_number="584" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יוסף יצחק יצחקוב" office_number="215" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="607|מנהלת תחום רחוב נוער" office_number="607" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אפרת סקאת" office_number="254" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="דניאלה וידנבאום לנדסמן" office_number="705" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="תמר דגן" office_number="261" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="ליזי דלאל" office_number="259" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גן שחפית" office_number="711" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="עוד הילה מעודד" office_number="273" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אביתר יוחנן" office_number="375" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="נעמה דנציגר" office_number="388" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בייס רמון - מנהלת חטייב ברמון" office_number="785" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="לאוניד גינזבורג" office_number="392" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="394 - גיא מנצור" office_number="394" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="עידו וקנין" office_number="400" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מיכל יצחקוב" office_number="403" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יעל בר ארז" office_number="408" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אור פוסט" office_number="393" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="פזית קולט" office_number="387" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גל נמרי" office_number="389" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="סולי חבה" office_number="391" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="390-נופר סיני" office_number="390" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="עוד איילת אלה" office_number="412" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="426 ליאת בן עמי" office_number="426" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אביה דרי" office_number="209" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="זנה כהן" office_number="212" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="איציק דדוש" office_number="204" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אילנית הראל" office_number="213" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="חן שוטי" office_number="206" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אילנה סבג" office_number="205" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="עופר בוזי" office_number="216" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אלירן אליה" office_number="218" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="ימית קרקוקלי" office_number="219" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אתי חיו" office_number="221" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="לשכת ראש העיר" office_number="208" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="חנה פיזואטי יוסף" office_number="217" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שלמה זלמן סויונוב" office_number="201" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בוריס יצחקוב" office_number="210" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="ענבר זרוף" office_number="222" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="לינוי יחזקל" office_number="438" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אורטל חמדני" office_number="448" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="דני קקון" office_number="223" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="453 אורטל סויסה מס" office_number="453" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שומר רווחה" office_number="225" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="עמית בן ברוך" office_number="457" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="474 אפרת גרטן" office_number="474" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="נורית שולמן" office_number="230" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אביבה נגה-482" office_number="482" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אברהם לויאב" office_number="226" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="כרמל ארזוני" office_number="227" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שומר עירייה ישן" office_number="228" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שומר שרון 4" office_number="229" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="ניר מסורי" office_number="231" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שלומית עיני" office_number="232" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שלמה טל" office_number="271" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="רועי גרובס" office_number="240" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="תמי נתנוב" office_number="276" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שרית גלדטה" office_number="268" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גילה מגער" office_number="269" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="רוחמה כעתבי" office_number="274" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="נאווה אגאי" office_number="275" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מלי לוי" office_number="277" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אלן אביב" office_number="278" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גבי גבריאל" office_number="279" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="רעיה טוטייב" office_number="280" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מזל שלום" office_number="281" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="נעמי עזר" office_number="282" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="רחלי מנשה" office_number="264" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אילנית שמח" office_number="265" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אורנה חלפון" office_number="252" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="איציק הרשקוביץ" office_number="253" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="לידיה ונטורה" office_number="258" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="סימה כהן" office_number="260" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="כרמית יפת" office_number="256" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אורית אברמצייב" office_number="262" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="כרמלה חמני" office_number="257" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="רן אברון-270" office_number="270" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="לבנת רמון" office_number="491" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יובל מרציאנו" office_number="251" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="סיגלית אסרף" office_number="272" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="תמר שכטר" office_number="499" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="חלי יצחקי" office_number="287" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שיראל קטנוב" office_number="283" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אילנה חזקיהו" office_number="284" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="285 איציק בן שלום" office_number="285" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שומר גביה" office_number="288" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="289 - קסיה דבב" office_number="289" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שלומי אוחנה" office_number="297" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אירנה דמצנקו" office_number="395" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="תמר שרמן" office_number="396" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="296-תאיר אלחרר" office_number="296" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="דלילה אשכנזי" office_number="290" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="חן שוטי יחזקאל" office_number="291" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מרטין חננאל" office_number="292" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="רוח גילה חלובה" office_number="293" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יפית ולדמן" office_number="294" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="רעות יונה" office_number="295" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="דור יונה" office_number="298" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="299 - אורלי שצופק" office_number="299" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="הדר שרעבי" office_number="397" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="401 - רחל בן זקרי" office_number="401" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שירלין מרציאנו" office_number="402" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="השירות הפסיכולוגי" office_number="562" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="זולי דדוש" office_number="312" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="השירות הפסיכולוגי" office_number="566" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="כוכבא תמאם" office_number="307" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="עירית שי" office_number="308" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="ניצה וולדוקס" office_number="301" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="נגה טל-נדלר" office_number="300" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="סוניה סעדה" office_number="302" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="סמדר סלמן" office_number="303" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="קרין גילגון" office_number="304" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="רונית רותם" office_number="305" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אתי וקנין" office_number="309" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="הילה דיבה" office_number="310" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="טלי מוצפי" office_number="311" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אדיס מהרטו" office_number="313" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="ויקי אבן שוע" office_number="314" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אדיסה דאמנה" office_number="315" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="סיוון קלדרון עבודי" office_number="316" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="דניאל חיימוב" office_number="317" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מועדון אביב" office_number="318" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מרכז טיפול בילד" office_number="319" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="איריס לוי" office_number="321" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="רוני גניש" office_number="322" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אמיתי גמליאל" office_number="343" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="חזי חלביה" office_number="344" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אילן אוטצי" office_number="330" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מרינה שחמורוב" office_number="331" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="הילה ציפורי" office_number="332" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מלי מינשריק" office_number="341" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="חננאל דדון" office_number="335" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="336 הדר שימונוב" office_number="336" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="337-עמית בן ברוך" office_number="337" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="תמר אלמוג" office_number="333" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מירה קהלני שפע" office_number="340" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="קרן שתווי" office_number="342" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="השירות הפסיכולוגי" office_number="601" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="574 מזכירות" office_number="574" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="רוני נטו | נטע אלון" office_number="577" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גינט כהן" office_number="573" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="585 - אורין גהרי" office_number="585" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="588 - איילת קידר שהרבני" office_number="588" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="741 יעדים - מזכירות" office_number="741" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="605|תחום מנהיגות נוער" office_number="605" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אסא גמר" office_number="598" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר אור חנה עיס מנהל" office_number="625" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר אור חנה עיס מזכירה" office_number="626" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר אלונים" office_number="613" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="ילנה קבשנין" office_number="378" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יפה קסטוריאנו" office_number="399" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="404 מור קהא" office_number="404" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="398 אינה שלייגר" office_number="398" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר שיזף" office_number="657" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="744 יעדים - סגן תיכון" office_number="744" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר שיזף" office_number="654" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="747 יעדים - חדר אנגלית" office_number="747" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גן פשוש" office_number="695" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="751 מדעים ויהדות מזכירה" office_number="751" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="685 - תיכון בית יעקב מזכירה" office_number="685" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="692 אור מנחם" office_number="692" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="754 מדעים ויהדות סגן" office_number="754" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בס נבון - מזכירה" office_number="761" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בס נבון - אב הבית" office_number="767" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בס נבון - תלמידים" office_number="770" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גן שחף" office_number="774" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בייס רמון - מנהלת קריית חינוך" office_number="780" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יואל לוי" office_number="207" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בייס רמון - מזכירות 1" office_number="781" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בייס רמון - חדר מורים" office_number="787" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בייס איינשטיין - מנהלת" office_number="820" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="moked353" office_number="353" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אביב גורי" office_number="350" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מוקד תצפיתן" office_number="355" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="moked357" office_number="357" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="כפיר אדרי" office_number="354" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יניב הדסי" office_number="360" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="moked356" office_number="356" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="ריטה בנימינוב" office_number="361" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יהודית שקורי" office_number="370" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יניב פיטוסי" office_number="345" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גיא בזזי" office_number="346" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גינון" office_number="347" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אורי גורגי" office_number="348" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="תומר חודרה" office_number="349" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="נתן זוארץ" office_number="351" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="ליעד טוטי" office_number="352" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מילנה נובק" office_number="371" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="נורית ארזוני" office_number="372" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="רלי קצב" office_number="373" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יעל מזרחי" office_number="374" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="לימור זנזורי" office_number="362" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="הדר שלמה" office_number="363" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אלי זיו" office_number="485" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="ענת שלו" office_number="490" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="חוה גדליה" office_number="495" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="עדית מלכה" office_number="497" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="רוייח ליאל רובין-יוסף" office_number="501" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מנהל מוקד עירוני" office_number="358" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="נתנאל שמיאן" office_number="436" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר סביונים" office_number="619" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מוקד 106 - חירום 6" office_number="809" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="תומר רוטברט" office_number="334" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="ענבר זלוף" office_number="237" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="עוד מיטל טופר" office_number="413" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="ענבל בשן" office_number="417" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="423viktor" office_number="423" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="פיקוח עירוני" office_number="431" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="חדר פקחים" office_number="432" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="דורון נהרי" office_number="433" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="משרד הפנים 434" office_number="434" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גלעד אורן" office_number="440" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="טוני אדיב" office_number="441" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="ליזי דרור" office_number="442" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מעיין עזר" office_number="444" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="446 אריה ואזה" office_number="446" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אריה חיים" office_number="447" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יצחק סיסאי" office_number="424" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מנור גואטה" office_number="416" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מעיין נגר" office_number="409" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יהודית אלבז" office_number="419" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מור רצהבי" office_number="406" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="רחלי שמואלי" office_number="407" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="עוד שלומית שפינדל" office_number="410" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="נדי פאלומבו" office_number="411" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="הילה דריקס" office_number="414" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="עוד נרקיס רובין" office_number="415" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="418 מעיין פרי" office_number="418" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שלוחה 445" office_number="445" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="דפנה שקורי" office_number="437" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אבי בן חמו" office_number="439" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="עוז זכריה" office_number="443" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="405 נועה אלמלח" office_number="405" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אבי פיטרו" office_number="435" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אולג נוסנקוב" office_number="420" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="ויקי דיגמי" office_number="430" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="עינת יפתחאל" office_number="450" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="עליזה מרקוביץ" office_number="478" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אריה ואזה" office_number="458" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="רותם חן" office_number="460" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="עומרי בר-אילן" office_number="461" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="משה קרבל" office_number="472" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מוטי גיטלין" office_number="475" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שירות ייעוץ לאזרח" office_number="476" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שירות ייעוץ לאזרח" office_number="477" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="479 | דורית לקונישוק" office_number="479" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="ליאב ארמנדו" office_number="459" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="חלי אללוף" office_number="449" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שירן וויצמן 451" office_number="451" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="454-יפתח אברהם" office_number="454" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="455 - אחיעז כץ" office_number="455" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="456 - גילי שפיקי" office_number="456" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="הילה גילמור" office_number="462" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מירי ארצי" office_number="473" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="דר אסתי אשל" office_number="480" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="חן צמח" office_number="483" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="488-דבורה עזריאל" office_number="488" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שרון בלישה" office_number="489" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="דורית אלפיה" office_number="493" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אורלי גלבוע" office_number="484" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אלישבע באשה" office_number="486" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אנה גולן" office_number="487" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גולה הדס בישאו" office_number="492" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="דסי בשארי" office_number="494" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="חוה עגיב" office_number="496" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="פנינה גרינברג" office_number="481" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מיכל בוגלה" office_number="505" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מיכל מכלוף" office_number="506" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מיכל פרוכטר" office_number="507" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מירי מלאכי" office_number="508" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="509-רימה סעידוב" office_number="509" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="משכית זוהר" office_number="510" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="נאווה אקשטיין" office_number="511" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="ירדן הררי" office_number="512" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="סוזי מארק" office_number="513" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בועז פרש" office_number="515" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="עדי פינטו" office_number="516" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="רונית מהסרי" office_number="517" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="רונית משיח" office_number="518" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="רות יורוביץ" office_number="519" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אפרת מסיקה" office_number="520" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="521-שירן ליפוביצקי" office_number="521" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שוש שטרק" office_number="522" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מעש" office_number="523" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="הלן יודעים" office_number="524" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שירן ששון" office_number="525" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אנה בוגנין" office_number="526" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יולי לוי" office_number="527" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="רחל גרינשטיין זגה" office_number="528" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אפרת לביא" office_number="529" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שגית אליאס" office_number="530" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="רעות עמרם" office_number="531" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="חיים בגייב" office_number="532" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שלי זיכלנסקי" office_number="533" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שירן שירום" office_number="534" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="עידן אשנר" office_number="535" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גילה וולפביץ" office_number="536" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יעל לבייב" office_number="537" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="זנאנש אדמאס" office_number="502" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="קרן בן מאיר" office_number="514" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יעל קוצר" office_number="498" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אביגייל בינגייב" office_number="500" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="זיאנה יצחקוב" office_number="504" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אילנית אספה" office_number="538" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="תמר קליין" office_number="539" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יהודה אלול" office_number="540" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מהרטו ווסה" office_number="541" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אילן חלפון" office_number="542" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="דורית פרי" office_number="543" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שימחה כנרי" office_number="545" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="הודיה נחמיאס" office_number="546" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מיטל סבו" office_number="547" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="לירז שפיצר" office_number="548" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="טלי כלפה" office_number="549" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אנגלינה יהושוע" office_number="550" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מוריה וייס" office_number="551" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="פולינה פיסקון" office_number="552" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מעש מזכירות" office_number="553" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מעש מחסן" office_number="554" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="556 מעש" office_number="556" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אנה בוגנין" office_number="557" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="נגה פוגל" office_number="558" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מיכל מכלוף" office_number="559" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="רונית גלר" office_number="560" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מיכל אלון אשת חיל" office_number="570" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="571 מרכז מענה" office_number="571" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="572 מועדון הוילה" office_number="572" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="השירות הפסיכולוגי" office_number="563" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="השירות הפסיכולוגי" office_number="564" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="השירות הפסיכולוגי" office_number="565" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="השירות הפסיכולוגי" office_number="567" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="השירות הפסיכולוגי" office_number="568" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="השירות הפסיכולוגי" office_number="569" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="ורד גוטמן" office_number="575" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שרית רשתי" office_number="576" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="578-מירב פן" office_number="578" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="נעמה קליין" office_number="544" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מירי כהן" office_number="581" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שומר מגדלור" office_number="589" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מרכז קשר" office_number="590" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="תהילה מלייב" office_number="591" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="606|מנהלת מחלקת נוער וצעירים" office_number="606" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="רוני ספז" office_number="597" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גל מוכתר" office_number="599" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="582 | גשר" office_number="582" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="583 | גשר" office_number="583" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="579 אתי אקסלרד" office_number="579" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="580 ליאת חיסקיאייב" office_number="580" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="586 - אפרת בורוכוב" office_number="586" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="587 - לינס רפאל" office_number="587" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="לירון קליין גלעד" office_number="602" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מרכז צעירים מזכירות" office_number="600" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="הדר ברזן" office_number="594" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מרכז צעירים" office_number="595" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מרכז צעירים" office_number="596" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="608|תחום רחוב נוער" office_number="608" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר סביונים" office_number="615" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="סביונים מנהל" office_number="616" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר סביונים מזכירה" office_number="617" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר סביונים" office_number="618" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר סביונים" office_number="620" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר סביונים" office_number="621" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר אלונים" office_number="612" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר אלונים מזכירה" office_number="611" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר אלונים מנהלת" office_number="610" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר ס. גאון מנהל" office_number="622" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר ס. גאון מזכירה" office_number="623" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר יובלים ז’-ט’ מנהל" office_number="628" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר יובלים ז-ט מזכירה" office_number="629" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר יובלים ז-ט" office_number="630" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יובלים רכזת ט-631" office_number="631" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יובלים יועצת ט-632" office_number="632" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יובלים יועצת ז-633" office_number="633" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יובלים סגן מנהל-634" office_number="634" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יובלים רכזת ח-636" office_number="636" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יובלים יועצת ח 637" office_number="637" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר יובלים י-יב" office_number="638" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שוש עיני מזכירת חטייב יובלים" office_number="639" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="קרנית יובלים ט-י" office_number="640" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יובלים יועצת-641" office_number="641" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יובלים רכזת חינוך חברתי-643" office_number="643" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גן ניצן" office_number="648" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גן תאנה תקשורת" office_number="649" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גן יערה" office_number="650" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גן סלעית ממ" office_number="651" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר אור חנה עיס" office_number="627" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר שיזף" office_number="659" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר שיזף" office_number="658" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר שיזף-מזכירות" office_number="656" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר שיזף" office_number="655" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר שיזף" office_number="653" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר שיזף" office_number="652" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר אהוד מנור - מזכירות" office_number="662" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יובלים הנהלת חשבונות-642" office_number="642" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר אורות מזכירה" office_number="645" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר אורות" office_number="646" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר אהוד מנור - מנהלת" office_number="661" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גן עפרוני ממ" office_number="668" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גן צופית ממ" office_number="669" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גן עגור ממ" office_number="670" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גן צוקית ממ" office_number="671" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גן דרור ממד" office_number="672" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גן נשר ממד" office_number="673" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גן חופית ממ" office_number="674" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גן יען תקשורתי" office_number="675" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מכתב מאליהו בנות מנהל" office_number="676" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מכתב מאליהו בנות מזכירה" office_number="677" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מכתב מאליהו בנות" office_number="678" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מכתב מאליהו בנות" office_number="679" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מ.אליהו בנים מנהל" office_number="680" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מ.אליהו בנים מזכירה" office_number="681" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מ.אליהו בנים" office_number="682" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מ.אליהו בנים" office_number="683" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גן שלדג" office_number="699" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אליאור תורגמן" office_number="700" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גן דוכיפת" office_number="698" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מאי לוין" office_number="702" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="דרור פוסט" office_number="703" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="דורין צלאל כץ" office_number="704" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שני ליבוביץ" office_number="706" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גן שקנאי" office_number="697" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גן אגמית" office_number="696" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="687 - תיכון בית יעקב" office_number="687" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="686 - תיכון בית יעקב" office_number="686" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="690 אור מנחם" office_number="690" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="684 - תיכון בית יעקב מנהל" office_number="684" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="691 אור מנחם" office_number="691" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="693 אור מנחם" office_number="693" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר אהוד מנור - סגנית" office_number="667" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר אהוד מנור - ספריה" office_number="665" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="717 גניס אדלן" office_number="717" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="716 נעמי נסרלה" office_number="716" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="N/A" office_number="707" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מי שקמה - חירום" office_number="803" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בריכה" office_number="805" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מוקד 106 - חירום 5" office_number="808" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מוקד 106 - חירום 4" office_number="807" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בס נבון - סגנית" office_number="763" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בס נבון - יועצת" office_number="764" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בס נבון - רכז שכבה" office_number="765" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מוקד 106 - חירום 3" office_number="806" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מוקד 106 - חירום 2" office_number="802" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="ישיבות עליון" office_number="810" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="851-מועדון צופים" office_number="851" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="איצטדיון" office_number="890" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יקלר" office_number="891" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="899 ועידה" office_number="899" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="משרד דלילה" office_number="913" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Gan Pautot" office_number="914" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אינטרקום דוברות" office_number="915" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker Nizan New" office_number="916" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker Room2 East" office_number="917" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker Room2 West" office_number="918" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker HashaharDarom" office_number="919" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker ParkingShahar" office_number="920" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker BP Ramon" office_number="921" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker BP Carmel-Arbel" office_number="922" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker BP Hermon-Arbel" office_number="923" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker BP Hermon-Masada" office_number="924" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker BP Kikar Peres" office_number="925" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker BP Knaan-Masda" office_number="926" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker BP Peres-Knan" office_number="927" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker Sport Maapilim" office_number="928" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker Kikar Dganiya" office_number="929" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker Tamun Sinai" office_number="930" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker Gan HaBanim" office_number="931" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker Ginat Yasmin" office_number="932" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="SP_Mashheta" office_number="933" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker Moked 106" office_number="934" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker Milwuakee" office_number="935" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker BP Peres-Carmel" office_number="936" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker BP Ginat Duhifat" office_number="937" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker Tamun Halutzim" office_number="938" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker Pool Parking" office_number="939" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker Park Dganya" office_number="940" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker Kikar Nevel" office_number="941" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker Mehina" office_number="942" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker Shuk Kingstone" office_number="943" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker Tahmash" office_number="944" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker Museum Babel" office_number="945" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker Stadium" office_number="946" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker Gan Sapir" office_number="947" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker Park Hameyasdim" office_number="948" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Speaker Matnas" office_number="949" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שער מוקד106" office_number="969" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="כניסה תחזוקה ורווחה" office_number="970" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שפע כניסה" office_number="971" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שפייח שער" office_number="972" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שפייח כניסה" office_number="973" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="דלת גזברות" office_number="974" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="דלת חיצונית לשכת מנכל" office_number="975" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="דלת לשכת מנכל" office_number="976" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="דלת משאבי אנוש" office_number="977" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="דלת לשכת גזבר" office_number="978" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="דלת אגף תרבות" office_number="979" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="דלת התמכרויות" office_number="980" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="דלת סגני ראש העיר" office_number="981" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Fanvil Shalom BeMishpaha" office_number="982" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="דלת כניסה" office_number="983" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Fanvil New Office" office_number="984" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Fanvil New Office" office_number="985" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Fanvil New Office" office_number="986" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="דלת מרכז צעירים" office_number="988" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="NISTA Misradim Hadashim" office_number="989" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Nista Misradim Hadashim" office_number="990" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="דלת משפטית" office_number="991" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Zganei Rosh Hair" office_number="992" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גביה משרד חדש" office_number="993" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Shirut Psychology" office_number="994" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="Migdalor" office_number="995" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="דלת לשכת ראש העיר" office_number="996" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="door 2nd floor" office_number="998" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="דלת רישוי עסקים" office_number="987" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="second floor old building shomer" office_number="997" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אתי שבו אגף תרבות" office_number="701" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="סיגל משיח" office_number="708" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מלכה מיכאלי" office_number="211" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גיל גבריאל" office_number="220" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מאי שמריהו" office_number="233" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מיכל שלום" office_number="452" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="רוח אבי בללי" office_number="255" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גן יסעור" office_number="713" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="door 2nd floor (Copy)" office_number="999" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="סולומון אילייב" office_number="422" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="734 מעבדה" office_number="734" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="733 יפעת" office_number="733" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="719 נטע" office_number="719" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="718 מיטל בן חיון" office_number="718" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="715 נתי ברק" office_number="715" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="729-אבי כוכבה" office_number="729" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="728-יוני תורגמן" office_number="728" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="727 אביטל ברון" office_number="727" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="726 גלית פסטרנק" office_number="726" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="725 סימה ושולה" office_number="725" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="723 רותי בכר" office_number="723" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="722 נטע" office_number="722" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="721 שולה שמואל" office_number="721" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="720 אורנית ארגובי" office_number="720" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="732 בקי יוסף" office_number="732" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="731-אבי כוכבא" office_number="731" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="724 חני" office_number="724" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="735 סלעית" office_number="735" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="737 יעדים - תקשוב" office_number="737" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="738 יעדים - אלקטרוניקה" office_number="738" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="739 יעדים - מעבדה" office_number="739" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="740 יעדים - מנהל" office_number="740" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="742 יעדים - מזכירות" office_number="742" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="743 יעדים - סגנית" office_number="743" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="745 יעדים - יועצת" office_number="745" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="746 יעדים - חדר מורים" office_number="746" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="748 יעדים - חדר מתמטיקה" office_number="748" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="749 יעדים - חדר טיפולי" office_number="749" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="750 מדעים ויהדות מנהל" office_number="750" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="752 מדעים ויהדות מזכירות" office_number="752" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="753 מדעים ויהדות מזכירות" office_number="753" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="755 מדעים ויהדות סגנית" office_number="755" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="756 מדעים ויהדות יועצת" office_number="756" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בס נבון - מנהלת" office_number="760" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בס נבון - מזכירה" office_number="762" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בס נבון - סגנית" office_number="766" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בס נבון - יועצת 2" office_number="768" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בס נבון - חדר מורים" office_number="769" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בייס נבון - שומר" office_number="771" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גן ברבור" office_number="772" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גן אנפה" office_number="773" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גן נחליאלי" office_number="775" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גן סנונית" office_number="776" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בייס רמון - יועצת" office_number="784" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בייס רמון - מתלית" office_number="790" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מוקד 106 - חירום 1" office_number="801" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בייס רמון - מזכירות 2" office_number="782" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בייס רמון - סגן" office_number="783" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בייס רמון - חדר שיחות" office_number="786" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בייס רמון - אב הבית" office_number="788" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בייס רמון - רכזת חינוך חברתי" office_number="789" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בייס איינשטיין - מזכירה" office_number="821" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בייס איינשטיין - יועצת" office_number="823" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="898 TEST 2" office_number="898" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="897 TEST 1" office_number="897" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="גן חסידה" office_number="712" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="ליאת שוחט" office_number="200" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר אהוד מנור - מזכירות" office_number="663" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר אורות מנהל" office_number="644" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אבישג אשר" office_number="286" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="N/A" office_number="950" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אבי בללי" office_number="250" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="שומר התמכרויות" office_number="470" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר אורות" office_number="647" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר אהוד מנור - יועצת" office_number="664" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="בית ספר אהוד מנור - תחזוקה" office_number="666" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="mokedFW0503058098" office_number="359" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="השירות הפסיכולוגי" office_number="561" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="PW-VIK-TEST" office_number="831" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="PW-VIK-TEST" office_number="830" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="יונית ביסור" office_number="235" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מזכירות אגף שירות - גילה מיכה" office_number="236" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אילנית שמח" office_number="325" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="מוני נקטלוב" office_number="326" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+  <contact display_name="אדיר פרץ" office_number="327" mobile_number="" other_number="" line="-1" ring="Resource:Ring1.wav" group_id_name="All Contacts" eyepea_contact_id=""/>
+</root_contact>
