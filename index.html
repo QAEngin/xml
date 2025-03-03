@@ -1,30 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>XML File Manager</title>
-    <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact List XML Download</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <div class="container">
-    <h1>XML File Upload & Download Manager</h1>
-
-    <div class="upload-section">
-        <h2>Upload File</h2>
-        <input type="file" id="fileInput" />
-        <button class="button" onclick="uploadFile()">Upload</button>
-        <p id="uploadMessage"></p>
+    <div class="card">
+        <h1>Contact List Download</h1>
+        <p>Click below to download your latest contacts XML file.</p>
+        <a href="https://raw.githubusercontent.com/QAEngin/xml/main/oryeuda.xml" class="download-btn" download>Download Contacts XML</a>
     </div>
-
-    <div class="download-section">
-        <h2>Available Files</h2>
-        <div class="file-list" id="fileList">
-            <a href="https://raw.githubusercontent.com/QAEngin/xml/main/oryeuda.xml" download>Download oryeuda.xml</a>
-        </div>
-    </div>
-
 </div>
 
-<script src="script.js"></script>
 </body>
 </html>
