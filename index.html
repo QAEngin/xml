@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>XML File Manager</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>XML File Upload & Download Manager</h1>
+
+    <div class="upload-section">
+        <h2>Upload File</h2>
+        <input type="file" id="fileInput" />
+        <button class="button" onclick="uploadFile()">Upload</button>
+        <p id="uploadMessage"></p>
+    </div>
+
+    <div class="download-section">
+        <h2>Available Files</h2>
+        <div class="file-list" id="fileList">
+            <p><a href="https://raw.githubusercontent.com/QAEngin/xml/main/sample1.xml" download>sample1.xml</a></p>
+        </div>
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
