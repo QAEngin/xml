@@ -1,52 +1,62 @@
+/* Use a phone contacts background */
 body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url('https://images.unsplash.com/photo-1504270997636-07ddfbd48945') no-repeat center center/cover;
     font-family: Arial, sans-serif;
-    margin: 20px;
+    color: #fff;
+    backdrop-filter: blur(5px);
 }
 
+/* Semi-transparent card */
 .container {
-    max-width: 600px;
-    margin: auto;
-    background-color: #f9f9f9;
+    background: rgba(0, 0, 0, 0.6);
     padding: 20px;
-    border: 1px solid #ddd;
-    border-radius: 8px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+    text-align: center;
+    max-width: 90%;
+    width: 400px;
 }
 
 h1 {
-    text-align: center;
-    color: #333;
+    font-size: 1.8em;
+    margin: 0 0 15px;
 }
 
-.upload-section, .download-section {
-    margin: 20px 0;
-    padding: 15px;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    background-color: #fff;
+p {
+    margin: 0 0 15px;
+    font-size: 1em;
+    line-height: 1.5;
 }
 
-.button {
-    padding: 10px 15px;
-    background-color: #007BFF;
+.download-btn {
+    display: inline-block;
+    padding: 12px 24px;
+    font-size: 1em;
+    background: #4CAF50;
     color: white;
     border: none;
-    cursor: pointer;
-    margin-top: 10px;
-}
-
-.button:hover {
-    background-color: #0056b3;
-}
-
-.file-list p {
-    margin: 5px 0;
-}
-
-.file-list a {
-    color: #007BFF;
+    border-radius: 6px;
     text-decoration: none;
+    transition: background 0.3s;
+    cursor: pointer;
 }
 
-.file-list a:hover {
-    text-decoration: underline;
+.download-btn:hover {
+    background: #45a049;
+}
+
+/* Mobile friendly */
+@media (max-width: 500px) {
+    h1 {
+        font-size: 1.4em;
+    }
+    .download-btn {
+        width: 100%;
+    }
 }
