@@ -22,3 +22,14 @@ function downloadXML() {
             console.error(error);
         });
 }
+
+function copyToClipboard() {
+    const url = document.getElementById('fileUrl').href;
+
+    navigator.clipboard.writeText(url).then(() => {
+        alert('URL copied to clipboard!');
+    }).catch(err => {
+        console.error('Failed to copy:', err);
+        alert('Failed to copy URL.');
+    });
+}
