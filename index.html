@@ -15,12 +15,12 @@
         <button class="download-btn" onclick="downloadXML()">Download Contacts XML</button>
 
         <!-- URL display box with copy button -->
-        <div class="url-box">
-            <a href="https://raw.githubusercontent.com/QAEngin/xml/main/oryeuda.xml" target="_blank" id="fileUrl">
-                https://raw.githubusercontent.com/QAEngin/xml/main/oryeuda.xml
-            </a>
-            <button class="copy-btn" onclick="copyToClipboard()">Copy</button>
-        </div>
+       <!-- Replace the plain <a> with this: -->
+<div class="url-box">
+    <span class="copy-link" id="fileUrl" onclick="downloadXML()">https://raw.githubusercontent.com/QAEngin/xml/main/oryeuda.xml</span>
+    <button class="copy-btn" onclick="copyToClipboard()">Copy</button>
+</div>
+
     </div>
 </div>
 
