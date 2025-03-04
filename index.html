@@ -12,7 +12,26 @@
     <div class="card">
         <h1>Contact List Download</h1>
         <p>Click below to download your latest contacts XML file.</p>
-        <a href="https://raw.githubusercontent.com/QAEngin/xml/main/oryeuda.xml" class="download-btn" download>Download Contacts XML</a>
+        <button class="download-btn" onclick="downloadXML()">Download Contacts XML</button>
+
+<script>
+function downloadXML() {
+    const url = 'https://raw.githubusercontent.com/QAEngin/xml/main/oryeuda.xml';
+
+    fetch(url)
+        .then(response => response.blob())
+        .then(blob => {
+            const link = document.createElement('a');
+            link.href = URL.createObjectURL(blob);
+            link.download = 'contacts.xml';
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        })
+        .catch(console.error);
+}
+</script>
+
     </div>
 </div>
 
