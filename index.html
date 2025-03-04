@@ -14,26 +14,17 @@
         <p>Click below to download your latest contacts XML file.</p>
         <button class="download-btn" onclick="downloadXML()">Download Contacts XML</button>
 
-<script>
-function downloadXML() {
-    const url = 'https://raw.githubusercontent.com/QAEngin/xml/main/oryeuda.xml';
-
-    fetch(url)
-        .then(response => response.blob())
-        .then(blob => {
-            const link = document.createElement('a');
-            link.href = URL.createObjectURL(blob);
-            link.download = 'contacts.xml';
-            document.body.appendChild(link);
-            link.click();
-            document.body.removeChild(link);
-        })
-        .catch(console.error);
-}
-</script>
-
+        <!-- URL display box with copy button -->
+        <div class="url-box">
+            <a href="https://raw.githubusercontent.com/QAEngin/xml/main/oryeuda.xml" target="_blank" id="fileUrl">
+                https://raw.githubusercontent.com/QAEngin/xml/main/oryeuda.xml
+            </a>
+            <button class="copy-btn" onclick="copyToClipboard()">Copy</button>
+        </div>
     </div>
 </div>
+
+<script src="script.js"></script>
 
 </body>
 </html>
