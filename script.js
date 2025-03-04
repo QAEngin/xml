@@ -24,7 +24,7 @@ function downloadXML() {
 }
 
 function copyToClipboard() {
-    const url = document.getElementById('fileUrl').href;
+    const url = 'https://raw.githubusercontent.com/QAEngin/xml/main/oryeuda.xml';
 
     navigator.clipboard.writeText(url).then(() => {
         alert('URL copied to clipboard!');
@@ -33,3 +33,4 @@ function copyToClipboard() {
         alert('Failed to copy URL.');
     });
 }
+
