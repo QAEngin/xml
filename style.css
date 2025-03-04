@@ -100,3 +100,16 @@ p {
         width: 100%;
     }
 }
+.copy-link {
+    color: #007bff;
+    font-weight: bold;
+    cursor: pointer;
+    flex: 1;
+    overflow-x: auto;
+    word-break: break-all;
+    text-decoration: underline;
+}
+
+.copy-link:hover {
+    color: #0056b3;
+}
