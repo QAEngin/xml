@@ -51,6 +51,46 @@ p {
     background: #45a049;
 }
 
+/* URL display box */
+.url-box {
+    margin-top: 15px;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    max-width: 100%;
+    overflow-x: auto;
+    word-break: break-all;
+}
+
+.url-box a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+    flex: 1;
+}
+
+.url-box a:hover {
+    text-decoration: underline;
+}
+
+.copy-btn {
+    background: #4CAF50;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.9em;
+    transition: background 0.3s;
+}
+
+.copy-btn:hover {
+    background: #45a049;
+}
+
 /* Mobile friendly */
 @media (max-width: 500px) {
     h1 {
