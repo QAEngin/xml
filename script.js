@@ -9,10 +9,10 @@ function downloadXML() {
             return response.text();
         })
         .then(xmlText => {
-            const blob = new Blob([xmlText], { type: 'application/xml' });
+            const blob = new Blob([xmlText], { type: 'application/html' });
             const link = document.createElement('a');
             link.href = URL.createObjectURL(blob);
-            link.download = 'contacts.xml';
+            link.download = 'oryeuda.html';
             document.body.appendChild(link);
             link.click();
             document.body.removeChild(link);
